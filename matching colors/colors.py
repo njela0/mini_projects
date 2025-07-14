@@ -25,7 +25,7 @@ colors_css = [
 "orange", "orangered", "orchid", "palegoldenrod", "palegreen",
 "paleturquoise", "palevioletred", "papayawhip", "peachpuff", "peru",
 "pink", "plum", "powderblue", "purple", "red", "rosybrown",
-"royalblue", "rebeccapurple", "saddlebrown", "salmon",
+"royalblue", "saddlebrown", "salmon",
 "sandybrown", "seagreen", "seashell", "sienna", "silver",
 "skyblue", "slateblue", "slategray", "slategrey", "snow",
 "springgreen", "steelblue", "tan", "teal", "thistle", "tomato",
